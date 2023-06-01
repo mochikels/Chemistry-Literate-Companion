@@ -1,6 +1,8 @@
-# chlic
+# Chemistry Literate Companion (ChLiC)
 
 A new project coding Chemistry Learning Application.
+Our Goal
+- The proponents of the study entitled "Chemistry Literate Companion (ChLiC): Application for Interactive Learning in Chemistry". The primary objective of the ChLiC application is to provide assistance in learning General Chemistry 1 in a fun, entertaining and interactive way and it is coded using Flutter.
 
 Building and running the code 
 
