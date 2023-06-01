@@ -8,7 +8,7 @@ Building and running the code
 
 - Should work only at a Tablet, specifically Cherry Mobile Omega Tab Pro, as this tablet is provided by the Department of Education to the Grade 12 students of Luis Palad Integrated High School and has been set to the researchers' Scope and Limitations that the Application will "TEMPORARILY" be available in DepEd Tablets for the meantime as it is still on the process for further developments.
 
-- In building the application, the developers of the application sought video tutorials of flutter in Youtube to guide and give them knowledge on how they will build the application and still learning to improve the application being coded for their Research project. The Researchers who developed the ChLiC application are open for suggestions, recommendations, and would like to ask for assistance  for further improvement of the application. 
+- In building the application, the developers of the application sought video tutorials of flutter in Youtube to guide and give them knowledge on how they will build the application and still learning to improve the application being coded for their Research project. The Researchers who developed the ChLiC application are open for suggestions, recommendations, and would like to ask for assistance and tips on how they will build the codes for further improvement of the application. 
 
 Packages Used
 - Flutter Sizer (https://pub.dev/packages/sizer)
