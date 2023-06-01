@@ -1,15 +1,18 @@
 # Chemistry Literate Companion (ChLiC)
+CHEMISTRY LITERATE COMPANION
 
-A new project coding Chemistry Learning Application.
 Our Goal
-- The proponents of the study entitled "Chemistry Literate Companion (ChLiC): Application for Interactive Learning in Chemistry". The primary objective of the ChLiC application is to provide assistance in learning General Chemistry 1 in a fun, entertaining and interactive way and it is coded using Flutter.
+- The researchers created a mobile application called ChLiC, which stands for Chemistry Literate Companion. The goal of ChLiC is to help students learn General Chemistry 1 in a fun, engaging, and interactive way. The application is coded using Flutter, a cross-platform development framework.
 
 Building and running the code 
 
-- Should work only at a Tablet, specifically Cherry Mobile Omega Tab Pro, as this tablet is provided by the Department of Education to the Grade 12 students of Luis Palad Integrated High School and has been set to the researchers' Scope and Limitations that the Application will "TEMPORARILY" be available in DepEd Tablets for the meantime as it is still on the process for further developments.
+- The application should only work on a tablet, specifically the Cherry Mobile Omega Tab Pro. This is because the Department of Education (DepEd) provides this tablet to Grade 12 students at Luis Palad Integrated High School. The researchers have set a scope and limitation that the application will be "TEMPORARILY" available on DepEd tablets for now, as it is still under development.
 
-- In building the application, the developers of the application sought video tutorials of flutter in Youtube to guide and give them knowledge on how they will build the application and still learning to improve the application being coded for their Research project. The Researchers who developed the ChLiC application are open for suggestions, recommendations, and would like to ask for assistance and tips on how they will build the codes for further improvement of the application. 
+- The developers of the ChLiC application used video tutorials on Flutter in YouTube to learn how to build the application. They are still learning and improving the application, which is being developed for a research project. The researchers who developed the application are open to suggestions, recommendations, and assistance with coding to further improve the application.
 
+About Developers
+- The developers of the ChLiC application are novices with only rudimentary programming skills, which they acquired in their previous Robotics class in Grade 10.
+- The d
 Packages Used
 - Flutter Sizer (https://pub.dev/packages/sizer)
 - Flutter Smooth_Page_Indicator (https://pub.dev/packages/smooth_page_indicator)
