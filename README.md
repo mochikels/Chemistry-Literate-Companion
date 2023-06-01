@@ -12,7 +12,8 @@ Building and running the code
 
 About Developers
 - The developers of the ChLiC application are novices with only rudimentary programming skills, which they acquired in their previous Robotics class in Grade 10.
-- The d
+- The developers are lacking in knowledge and are struggling to find a way to code the application in a way that is both responsive and meets the other features of the application.
+
 Packages Used
 - Flutter Sizer (https://pub.dev/packages/sizer)
 - Flutter Smooth_Page_Indicator (https://pub.dev/packages/smooth_page_indicator)
