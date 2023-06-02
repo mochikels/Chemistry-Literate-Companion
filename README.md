@@ -6,7 +6,7 @@ Our Goal
 
 Building and running the code 
 
-- As of now, the application should only works on tablet, specifically the Cherry Mobile Omega Tab Pro. This is because the Department of Education (DepEd) provides this tablet to Grade 12 students at Luis Palad Integrated High School. The researchers have set a scope and limitation that the application will be "TEMPORARILY" available on DepEd tablets for now, as it is still under development.
+- As of now, the application only works on tablet, specifically the Cherry Mobile Omega Tab Pro. This is because the Department of Education (DepEd) provides this tablet to Grade 12 students at Luis Palad Integrated High School. The researchers have set a scope and limitation that the application will be "TEMPORARILY" available on DepEd tablets for now, as it is still under development.
 - The researchers used a real device to test their code. They connected the device to their laptops and monitored the changes. This allowed them to see how the code looked in the actual device.
 
 - The developers of the ChLiC application used video tutorials on Flutter in YouTube to learn how to build the application. They are still learning and improving the application, which is being developed for a research project. The researchers who developed the application are open to suggestions, recommendations, and assistance with coding to further improve the application.
